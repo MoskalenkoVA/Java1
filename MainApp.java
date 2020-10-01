@@ -65,6 +65,4 @@ public class MainApp {
          String name = in.next();
          System.out.println("Привет, " + name);
         }
-
-
 }
